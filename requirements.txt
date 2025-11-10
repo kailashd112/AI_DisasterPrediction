@@ -1,9 +1,8 @@
-/ai_disasterprediction/
-│
-├── app.py
-├── best_disaster_model.pkl
-├── scaler.joblib
-├── label_encoder.joblib
-├── feature_names.json   (optional)
-├── requirements.txt
-└── README.md
+streamlit
+scikit-learn
+xgboost
+pandas
+numpy
+matplotlib
+seaborn
+joblib
